@@ -1,0 +1,4 @@
+
+
+
+There are so many tourist visiting in Tanzania National park, however not  tourist knows about animals, hence need an assistance of guide. Design a simple expert system to which can receive animal features and classify the animal and provide more detail of the animal such as habitats, food, class of the animal, phylum and specie name (use prolog to write facts, and rules).
